@@ -3,7 +3,7 @@ import pandas as pd
 import numpy as np
 import pickle
 
-#model = pickle.load(open('models/kart_hp.pkl', 'rb'))
+model = pickle.load(open('models/kart_hp.pkl', 'rb'))
 
 # Título de la aplicación
 st.title("Aprendizaje automático en el diagnóstico de enfermedades cardiovasculares")
