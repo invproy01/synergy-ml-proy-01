@@ -6,8 +6,7 @@ import pickle
 #model = pickle.load(open('models/kart_hp.pkl', 'rb'))
 
 # Título de la aplicación
-st.title("Aprendizaje auto
-mático en el diagnóstico de enfermedades cardiovasculares")
+st.title("Aprendizaje automático en el diagnóstico de enfermedades cardiovasculares")
 
 # Comprobar si el usuario ya presionó el botón "Empezar"
 if 'started' not in st.session_state:
