@@ -25,9 +25,9 @@ if not st.session_state.started:
     with col2:
         st.write("### Bienvenido! 💖")
         st.write(
-            "Lastimosamente, las enfermedades que afectan al corazón y vasos sanguíneos constituyen una de las principales razones de muerte en el mundo."
-            "Por este motivo, usaremos el Aprendizaje automático como una herramienta que ayude a la detección"
-            "temprana y prevención de estas enfermedades facilitando el tratamiento oportuno de quien las" 
+            "Lastimosamente, las enfermedades que afectan al corazón y vasos sanguíneos constituyen una de las principales razones de muerte en el mundo. "
+            "Por este motivo, usaremos el Aprendizaje automático como una herramienta que ayude a la detección "
+            "temprana y prevención de estas enfermedades facilitando el tratamiento oportuno de quien las " 
             "padece para evitar mayores complicaciones."
         
         )
